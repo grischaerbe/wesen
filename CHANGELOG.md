@@ -1,5 +1,11 @@
 # phatty
 
+## 0.0.12
+
+### Patch Changes
+
+- c15b4b1: better error messages
+
 ## 0.0.11
 
 ### Patch Changes
